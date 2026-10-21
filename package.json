@@ -1,0 +1,23 @@
+{
+  "name": "com.pixelphantom.fpscontroller",
+  "version": "1.0.0",
+  "displayName": "Pixel Phantom FPS Movement Controller",
+  "description": "First-Person CharacterController with acceleration/deceleration, headbob, crouch ceiling checks, and footsteps for Unity New Input System.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0"
+  },
+  "author": {
+    "name": "Pixel Phantom Studio",
+    "url": "https://github.com/Pixel-Phantom-Studio"
+  },
+  "keywords": [
+    "fps",
+    "controller",
+    "charactercontroller",
+    "firstperson",
+    "movement",
+    "headbob",
+    "footsteps"
+  ]
+}
